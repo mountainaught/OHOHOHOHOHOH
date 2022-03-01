@@ -1,3 +1,5 @@
-*.json
-*.v5code
+compile_commands.json
+robotty-v3.v5code
 *.mk
+
+vex\
