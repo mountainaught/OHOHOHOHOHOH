@@ -1,8 +1,3 @@
-// Fun fact! Headers are meant to make code smaller and use less resources, since you don't need to link stuff to other stuff you don't need
-// Fun fact! the intake.cpp links to literally everything else, as does mogo.cpp and leftarm
-
-// y o u a r e m o t h e r f u c k e r ?
-
 namespace robotty
 {  
   namespace intake {

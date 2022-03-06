@@ -42,6 +42,7 @@ bool function::trueYetFalse(bool yeap, bool sad) {
   }
 }
 
+/*
 bool function::buttonPressing(const char * subsystem) {
   if (subsystem == "mogo") {
     if ( Controller1.ButtonL1.pressing() || Controller1.ButtonL2.pressing() ) {
@@ -51,3 +52,4 @@ bool function::buttonPressing(const char * subsystem) {
     }
   }
 }
+*/

@@ -1,8 +1,5 @@
 #include "constants.h"
 
-// yes i declared all of this and defined em
-// yes i hate myself
-
 bool driveAhead = true;
 bool armIsUp = true;
 

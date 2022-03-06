@@ -2,11 +2,6 @@
 
 using namespace vex;
 using namespace robotty;
-
-// Yes this is inefficient
-// Yes every single motor commands works this way
-// No I don't know how to make it better
-// Yes I'm gonna brute force it
  
 // Debug-Test Mode
 
